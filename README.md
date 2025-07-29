@@ -1,1 +1,4 @@
-# analise_acidentes_mapa_calor
+# Projeto: Detecção de Fraudes com Machine Learning
+Autor: Zara Takion  
+Data: Julho de 2025  
+Descrição: Projeto de portfólio 
