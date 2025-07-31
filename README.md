@@ -26,11 +26,13 @@ Este notebook realiza uma análise exploratória de dados de acidentes de trâns
 
 ## 📁 Estrutura do Projeto
 
-´´´´
+
+````
 previsao-preco-casas/
 ├── analise_acidentes_mapa_calor.ipynb
 └── README.md
-´´´´
+````
+
 
 ---
 
